@@ -1,0 +1,14 @@
+D:\WORK\C#\170225\BeginnerDemo\bin\Debug\net8.0\BeginnerDemo.exe
+D:\WORK\C#\170225\BeginnerDemo\bin\Debug\net8.0\BeginnerDemo.deps.json
+D:\WORK\C#\170225\BeginnerDemo\bin\Debug\net8.0\BeginnerDemo.runtimeconfig.json
+D:\WORK\C#\170225\BeginnerDemo\bin\Debug\net8.0\BeginnerDemo.dll
+D:\WORK\C#\170225\BeginnerDemo\bin\Debug\net8.0\BeginnerDemo.pdb
+D:\WORK\C#\170225\BeginnerDemo\obj\Debug\net8.0\BeginnerDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#\170225\BeginnerDemo\obj\Debug\net8.0\BeginnerDemo.AssemblyInfoInputs.cache
+D:\WORK\C#\170225\BeginnerDemo\obj\Debug\net8.0\BeginnerDemo.AssemblyInfo.cs
+D:\WORK\C#\170225\BeginnerDemo\obj\Debug\net8.0\BeginnerDemo.csproj.CoreCompileInputs.cache
+D:\WORK\C#\170225\BeginnerDemo\obj\Debug\net8.0\BeginnerDemo.dll
+D:\WORK\C#\170225\BeginnerDemo\obj\Debug\net8.0\refint\BeginnerDemo.dll
+D:\WORK\C#\170225\BeginnerDemo\obj\Debug\net8.0\BeginnerDemo.pdb
+D:\WORK\C#\170225\BeginnerDemo\obj\Debug\net8.0\BeginnerDemo.genruntimeconfig.cache
+D:\WORK\C#\170225\BeginnerDemo\obj\Debug\net8.0\ref\BeginnerDemo.dll

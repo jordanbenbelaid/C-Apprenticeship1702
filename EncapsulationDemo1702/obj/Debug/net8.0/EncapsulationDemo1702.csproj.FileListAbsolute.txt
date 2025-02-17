@@ -1,0 +1,14 @@
+D:\WORK\C#\170225\EncapsulationDemo1702\bin\Debug\net8.0\EncapsulationDemo1702.exe
+D:\WORK\C#\170225\EncapsulationDemo1702\bin\Debug\net8.0\EncapsulationDemo1702.deps.json
+D:\WORK\C#\170225\EncapsulationDemo1702\bin\Debug\net8.0\EncapsulationDemo1702.runtimeconfig.json
+D:\WORK\C#\170225\EncapsulationDemo1702\bin\Debug\net8.0\EncapsulationDemo1702.dll
+D:\WORK\C#\170225\EncapsulationDemo1702\bin\Debug\net8.0\EncapsulationDemo1702.pdb
+D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\EncapsulationDemo1702.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\EncapsulationDemo1702.AssemblyInfoInputs.cache
+D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\EncapsulationDemo1702.AssemblyInfo.cs
+D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\EncapsulationDemo1702.csproj.CoreCompileInputs.cache
+D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\EncapsulationDemo1702.dll
+D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\refint\EncapsulationDemo1702.dll
+D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\EncapsulationDemo1702.pdb
+D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\EncapsulationDemo1702.genruntimeconfig.cache
+D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\ref\EncapsulationDemo1702.dll

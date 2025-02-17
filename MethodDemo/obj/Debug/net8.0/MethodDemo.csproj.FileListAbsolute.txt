@@ -1,0 +1,14 @@
+D:\WORK\C#\170225\MethodDemo\bin\Debug\net8.0\MethodDemo.exe
+D:\WORK\C#\170225\MethodDemo\bin\Debug\net8.0\MethodDemo.deps.json
+D:\WORK\C#\170225\MethodDemo\bin\Debug\net8.0\MethodDemo.runtimeconfig.json
+D:\WORK\C#\170225\MethodDemo\bin\Debug\net8.0\MethodDemo.dll
+D:\WORK\C#\170225\MethodDemo\bin\Debug\net8.0\MethodDemo.pdb
+D:\WORK\C#\170225\MethodDemo\obj\Debug\net8.0\MethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#\170225\MethodDemo\obj\Debug\net8.0\MethodDemo.AssemblyInfoInputs.cache
+D:\WORK\C#\170225\MethodDemo\obj\Debug\net8.0\MethodDemo.AssemblyInfo.cs
+D:\WORK\C#\170225\MethodDemo\obj\Debug\net8.0\MethodDemo.csproj.CoreCompileInputs.cache
+D:\WORK\C#\170225\MethodDemo\obj\Debug\net8.0\MethodDemo.dll
+D:\WORK\C#\170225\MethodDemo\obj\Debug\net8.0\refint\MethodDemo.dll
+D:\WORK\C#\170225\MethodDemo\obj\Debug\net8.0\MethodDemo.pdb
+D:\WORK\C#\170225\MethodDemo\obj\Debug\net8.0\MethodDemo.genruntimeconfig.cache
+D:\WORK\C#\170225\MethodDemo\obj\Debug\net8.0\ref\MethodDemo.dll
