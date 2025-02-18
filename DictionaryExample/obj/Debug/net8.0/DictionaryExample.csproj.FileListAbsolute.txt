@@ -1,0 +1,15 @@
+D:\WORK\C#\170225\DictionaryExample\bin\Debug\net8.0\DictionaryExample.exe
+D:\WORK\C#\170225\DictionaryExample\bin\Debug\net8.0\DictionaryExample.deps.json
+D:\WORK\C#\170225\DictionaryExample\bin\Debug\net8.0\DictionaryExample.runtimeconfig.json
+D:\WORK\C#\170225\DictionaryExample\bin\Debug\net8.0\DictionaryExample.dll
+D:\WORK\C#\170225\DictionaryExample\bin\Debug\net8.0\DictionaryExample.pdb
+D:\WORK\C#\170225\DictionaryExample\obj\Debug\net8.0\DictionaryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#\170225\DictionaryExample\obj\Debug\net8.0\DictionaryExample.AssemblyInfoInputs.cache
+D:\WORK\C#\170225\DictionaryExample\obj\Debug\net8.0\DictionaryExample.AssemblyInfo.cs
+D:\WORK\C#\170225\DictionaryExample\obj\Debug\net8.0\DictionaryExample.csproj.CoreCompileInputs.cache
+D:\WORK\C#\170225\DictionaryExample\obj\Debug\net8.0\DictionaryExample.sourcelink.json
+D:\WORK\C#\170225\DictionaryExample\obj\Debug\net8.0\DictionaryExample.dll
+D:\WORK\C#\170225\DictionaryExample\obj\Debug\net8.0\refint\DictionaryExample.dll
+D:\WORK\C#\170225\DictionaryExample\obj\Debug\net8.0\DictionaryExample.pdb
+D:\WORK\C#\170225\DictionaryExample\obj\Debug\net8.0\DictionaryExample.genruntimeconfig.cache
+D:\WORK\C#\170225\DictionaryExample\obj\Debug\net8.0\ref\DictionaryExample.dll
