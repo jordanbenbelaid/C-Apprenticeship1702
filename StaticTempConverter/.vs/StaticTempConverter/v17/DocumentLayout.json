@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORK\\C#\\280125\\StaticTempConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D742A97-8E7F-4075-827E-4C3EFEEC1904}|StaticTempConverter.csproj|d:\\work\\c#\\280125\\statictempconverter\\tempconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D742A97-8E7F-4075-827E-4C3EFEEC1904}|StaticTempConverter.csproj|solutionrelative:tempconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D742A97-8E7F-4075-827E-4C3EFEEC1904}|StaticTempConverter.csproj|d:\\work\\c#\\280125\\statictempconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D742A97-8E7F-4075-827E-4C3EFEEC1904}|StaticTempConverter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TempConverter.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\\280125\\StaticTempConverter\\TempConverter.cs",
+              "RelativeDocumentMoniker": "TempConverter.cs",
+              "ToolTip": "D:\\WORK\\C#\\280125\\StaticTempConverter\\TempConverter.cs",
+              "RelativeToolTip": "TempConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:00:58.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\\280125\\StaticTempConverter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\WORK\\C#\\280125\\StaticTempConverter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:59:45.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

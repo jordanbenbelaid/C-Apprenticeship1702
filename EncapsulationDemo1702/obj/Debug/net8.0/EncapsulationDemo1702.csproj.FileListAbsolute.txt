@@ -12,3 +12,4 @@ D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\refint\EncapsulationDem
 D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\EncapsulationDemo1702.pdb
 D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\EncapsulationDemo1702.genruntimeconfig.cache
 D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\ref\EncapsulationDemo1702.dll
+D:\WORK\C#\170225\EncapsulationDemo1702\obj\Debug\net8.0\EncapsulationDemo1702.sourcelink.json

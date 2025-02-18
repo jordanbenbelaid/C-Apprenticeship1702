@@ -1,4 +1,6 @@
-﻿namespace EncapsulationDemo1702
+﻿using System.Diagnostics.Metrics;
+
+namespace EncapsulationDemo1702
 {
     public class Person
     {
@@ -7,16 +9,19 @@
         private string Name;
         private int Age;
         private bool IsMale;
+        public static int Counter = 0;
+        
 
         //constructors
         //default constructor
-        public Person() { }
+        public Person() { Counter++; }
         //everything constructor
         public Person(string Name, int Age, bool IsMale)
         {
             this.Name = Name;
             this.Age = Age;
             this.IsMale = IsMale;
+            Counter++;
         }
 
         //Getters and setters
@@ -33,6 +38,16 @@
         }
 
         //any extra methods
+
+        public void PrintSomething()
+        {
+            Console.WriteLine("Hello");
+        }
+
+        public static void PrintSomethingStatic()
+        {
+            Console.WriteLine("This is the static method");
+        }
 
 
         //tostring
