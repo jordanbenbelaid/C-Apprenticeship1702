@@ -1,0 +1,15 @@
+D:\WORK\C#\170225\CollectionsAndGenerics\bin\Debug\net8.0\CollectionsAndGenerics.exe
+D:\WORK\C#\170225\CollectionsAndGenerics\bin\Debug\net8.0\CollectionsAndGenerics.deps.json
+D:\WORK\C#\170225\CollectionsAndGenerics\bin\Debug\net8.0\CollectionsAndGenerics.runtimeconfig.json
+D:\WORK\C#\170225\CollectionsAndGenerics\bin\Debug\net8.0\CollectionsAndGenerics.dll
+D:\WORK\C#\170225\CollectionsAndGenerics\bin\Debug\net8.0\CollectionsAndGenerics.pdb
+D:\WORK\C#\170225\CollectionsAndGenerics\obj\Debug\net8.0\CollectionsAndGenerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#\170225\CollectionsAndGenerics\obj\Debug\net8.0\CollectionsAndGenerics.AssemblyInfoInputs.cache
+D:\WORK\C#\170225\CollectionsAndGenerics\obj\Debug\net8.0\CollectionsAndGenerics.AssemblyInfo.cs
+D:\WORK\C#\170225\CollectionsAndGenerics\obj\Debug\net8.0\CollectionsAndGenerics.csproj.CoreCompileInputs.cache
+D:\WORK\C#\170225\CollectionsAndGenerics\obj\Debug\net8.0\CollectionsAndGenerics.sourcelink.json
+D:\WORK\C#\170225\CollectionsAndGenerics\obj\Debug\net8.0\CollectionsAndGenerics.dll
+D:\WORK\C#\170225\CollectionsAndGenerics\obj\Debug\net8.0\refint\CollectionsAndGenerics.dll
+D:\WORK\C#\170225\CollectionsAndGenerics\obj\Debug\net8.0\CollectionsAndGenerics.pdb
+D:\WORK\C#\170225\CollectionsAndGenerics\obj\Debug\net8.0\CollectionsAndGenerics.genruntimeconfig.cache
+D:\WORK\C#\170225\CollectionsAndGenerics\obj\Debug\net8.0\ref\CollectionsAndGenerics.dll
