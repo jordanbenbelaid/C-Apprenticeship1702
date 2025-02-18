@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORK\\C#\\280125\\EnumExerciseSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF8581B-DBB0-4DD9-9CF1-55FC90EF268F}|EnumExerciseSolution.csproj|d:\\work\\c#\\280125\\enumexercisesolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF8581B-DBB0-4DD9-9CF1-55FC90EF268F}|EnumExerciseSolution.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF8581B-DBB0-4DD9-9CF1-55FC90EF268F}|EnumExerciseSolution.csproj|d:\\work\\c#\\280125\\enumexercisesolution\\daysofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF8581B-DBB0-4DD9-9CF1-55FC90EF268F}|EnumExerciseSolution.csproj|solutionrelative:daysofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DaysOfWeek.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\\280125\\EnumExerciseSolution\\DaysOfWeek.cs",
+              "RelativeDocumentMoniker": "DaysOfWeek.cs",
+              "ToolTip": "D:\\WORK\\C#\\280125\\EnumExerciseSolution\\DaysOfWeek.cs",
+              "RelativeToolTip": "DaysOfWeek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:20:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\\280125\\EnumExerciseSolution\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\WORK\\C#\\280125\\EnumExerciseSolution\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:19:15.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
