@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORK\\C#\\280125\\GenericExerciseSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{750ABBD3-1F81-4D37-95A6-9D3BE7FB008A}|GenericExerciseSolution.csproj|d:\\work\\c#\\280125\\genericexercisesolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750ABBD3-1F81-4D37-95A6-9D3BE7FB008A}|GenericExerciseSolution.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750ABBD3-1F81-4D37-95A6-9D3BE7FB008A}|GenericExerciseSolution.csproj|d:\\work\\c#\\280125\\genericexercisesolution\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750ABBD3-1F81-4D37-95A6-9D3BE7FB008A}|GenericExerciseSolution.csproj|solutionrelative:repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\\280125\\GenericExerciseSolution\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository.cs",
+              "ToolTip": "D:\\WORK\\C#\\280125\\GenericExerciseSolution\\Repository.cs",
+              "RelativeToolTip": "Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:53:16.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\\280125\\GenericExerciseSolution\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\WORK\\C#\\280125\\GenericExerciseSolution\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:53:03.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
