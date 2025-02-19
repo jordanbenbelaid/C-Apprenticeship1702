@@ -26,13 +26,26 @@ namespace Zoo
         }
 
         //Getters and Setters
+
+        //Encapsulate fields (and use properties):
+        //We access fields through properties (The generated getters and setters)
+        //allows logic (validation etc) in the getters and setters
+        //Flexible as it allows us to easily change implementation without breaking code
+        //Can be a little slower due to the way it calls methods
+
+        //Encapsulate fields (but using fields):
+        //we access directly from fields or getter and setter methods
+        //We have less control over how data is modified/accessed
+        //harder to change data access (manual refactoring)
+        //slightly faster, since its direct access
+
         public int Id1 { get => Id; set => Id = value; }
         public string Colour1 { get => Colour; set => Colour = value; }
         public string Species1 { get => Species; set => Species = value; }
         public bool HasFourLegs1 { get => HasFourLegs; set => HasFourLegs = value; }
 
         //Methods/Behaviours of the Class
-        public void noise()
+        public virtual void noise()
         {
             Console.WriteLine("Animal noise");
         }

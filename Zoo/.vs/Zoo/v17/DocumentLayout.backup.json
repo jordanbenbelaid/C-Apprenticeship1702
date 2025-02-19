@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\WORK\\C#\\170225\\Zoo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B7F966F7-EFA3-4343-90ED-5BBA80729BF4}|Zoo.csproj|d:\\work\\c#\\170225\\zoo\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F966F7-EFA3-4343-90ED-5BBA80729BF4}|Zoo.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7F966F7-EFA3-4343-90ED-5BBA80729BF4}|Zoo.csproj|d:\\work\\c#\\170225\\zoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7F966F7-EFA3-4343-90ED-5BBA80729BF4}|Zoo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +30,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\\170225\\Zoo\\Dog.cs",
+              "RelativeDocumentMoniker": "Dog.cs",
+              "ToolTip": "D:\\WORK\\C#\\170225\\Zoo\\Dog.cs",
+              "RelativeToolTip": "Dog.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:51:46.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Animal.cs",
               "DocumentMoniker": "D:\\WORK\\C#\\170225\\Zoo\\Animal.cs",
               "RelativeDocumentMoniker": "Animal.cs",
               "ToolTip": "D:\\WORK\\C#\\170225\\Zoo\\Animal.cs",
               "RelativeToolTip": "Animal.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwCAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wCsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T15:44:17.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WORK\\C#\\170225\\Zoo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\WORK\\C#\\170225\\Zoo\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "ToolTip": "D:\\WORK\\C#\\170225\\Zoo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T15:43:37.029Z",
               "EditorCaption": ""
