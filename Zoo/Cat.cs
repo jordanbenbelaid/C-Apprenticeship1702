@@ -14,6 +14,7 @@ namespace Zoo
 
         public bool HasClaws1 { get => HasClaws; set => HasClaws = value; }
 
+        public Cat() { }
         public Cat(int id, string colour, string species, bool hasFourLegs, bool hasClaws)
             : base(id, colour, species, hasFourLegs)
         {
@@ -34,5 +35,19 @@ namespace Zoo
             return $"{base.ToString()} \n  Cat Features: \n  Does it have claws?: {HasClaws1}";
         }
 
+        public override void play()
+        {
+            Console.WriteLine("I like to play with string");
+        }
+
+        public override double calculateBill()
+        {
+            return 10.99;
+        }
+
+        public override void RespondToCommand()
+        {
+            Console.WriteLine("pspspsps");
+        }
     }
 }

@@ -1,26 +1,37 @@
-﻿namespace Zoo
+﻿using System.Drawing;
+using System.Runtime.InteropServices;
+
+namespace Zoo
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Animal Elephant = new Animal(1, "Grey", "African", true);
+            
 
-            Dog DogOne = new Dog("Doggo", 2, "Brown", "German Shepherd", true);
+            Dog GermanShepherd = new Dog("Doggo", 1, "Brown", "German Shepherd", true);
+            Dog Doberman = new Dog("Doge", 2, "Black", "Doberman", true);
+            Dog Rottweiler = new Dog("Doggy", 3, "Brown and Black", "Rottweiler", true);
+            Dog Labrador = new Dog("Dog", 4, "White", "Labrador", true);
 
-            //get using generated getters
-            Console.WriteLine(Elephant.Colour1);
+            Cat Sphynx = new Cat(5, "Grey", "Sphynx", true, true);
+            Cat Siamese = new Cat(6, "White", "Siamese", true, true);
+            Cat MaineCoon = new Cat(7, "Brown and White", "Maine Coon", true, true);
+            Cat Burmese = new Cat(8, "Brown", "Burmese", true, true);
 
-            //set using generated setters
-            Elephant.Colour1 = "Blue";
-            Console.WriteLine(Elephant.Colour1);
+            Zoo zoo = new Zoo();
 
-            Console.WriteLine(DogOne);
+            zoo.AddAnimalToList(GermanShepherd);
+            zoo.AddAnimalToList(Doberman);
+            zoo.AddAnimalToList(Rottweiler);
+            zoo.AddAnimalToList(Labrador);
+            zoo.AddAnimalToList(Sphynx);
+            zoo.AddAnimalToList(Siamese);
+            zoo.AddAnimalToList(MaineCoon);
+            zoo.AddAnimalToList(Burmese);
 
-            List<Animal> AnimalList = new List<Animal>();
+            zoo.calculateBillByType(new Cat());
 
-            AnimalList.Add(Elephant);
-            AnimalList.Add(DogOne);
             
         }
     }

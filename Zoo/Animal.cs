@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace Zoo
 {
-    public class Animal
+    public abstract class Animal : Domesticated
     {
+
+        //abstract method
+        public abstract double calculateBill();
+        public abstract void play();
+        public abstract void RespondToCommand();
 
         //Fields/Attributes
         private int Id;
@@ -57,8 +62,7 @@ namespace Zoo
                 $"Species: {Species1} \nDoes it have 4 legs?: {HasFourLegs1}";
         }
 
-
-
-
+        
+       
     }
 }

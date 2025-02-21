@@ -12,6 +12,7 @@ namespace Zoo
         private string Name;
 
         //Constructor
+        public Dog() { }
         public Dog(string name, int id, string colour, string species, bool hasFourLegs) 
             : base(id, colour, species, hasFourLegs)
         { 
@@ -49,6 +50,21 @@ namespace Zoo
         public override string ToString()
         {
             return $"{base.ToString()} \n  Dog Features: \n  Name: {Name1}";
+        }
+
+        public override void play()
+        {
+            Console.WriteLine("I like to play fetch");
+        }
+
+        public override double calculateBill()
+        {
+            return 16.99;
+        }
+
+        public override void RespondToCommand()
+        {
+            Console.WriteLine("Sit");
         }
     }
 }

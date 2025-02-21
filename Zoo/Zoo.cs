@@ -22,6 +22,7 @@ namespace Zoo
         public void AddAnimalToList(Animal animal)
         {
             this.animals.Add(animal);
+            Console.WriteLine("Animal added");
         }
 
         //create a FindAnimalById method, so you can find an animal with the given id
@@ -36,5 +37,43 @@ namespace Zoo
             }
             return null;
         }
+
+        //calculate bill by id
+        public void calculateBillById(int id)
+        {
+            foreach (Animal a in this.animals)
+            {
+                if (a.Id1 == id)
+                {
+                    Console.WriteLine($"The bill for this animal is {a.calculateBill()}");
+                }
+            }
+        }
+
+        //calculate bill of whole zoo
+        public void calculateTotalBillOfZoo()
+        {
+            double total = 0;
+            foreach(Animal a in this.animals)
+            {
+                total += a.calculateBill();
+            }
+            Console.WriteLine($"The total bill of this zoo is {total}");
+        }
+
+        //calculate bill based on type of animal
+        public void calculateBillByType(Animal animal)
+        {
+            double total = 0;
+            foreach(Animal a in this.animals)
+            {
+                if(a.GetType() == animal.GetType())
+                {
+                    total += a.calculateBill();
+                }
+            }
+            Console.WriteLine($"The total for all {animal.GetType().Name}s is {total}");
+        }
+        
     }
 }
